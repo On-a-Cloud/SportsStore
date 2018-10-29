@@ -2,6 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SportsStore.Domain.Entities;
 
+
 namespace SportsStore.UnitTests
 {
     [TestClass]
